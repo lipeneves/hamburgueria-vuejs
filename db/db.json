@@ -77,5 +77,91 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "Dasd",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "Felipe",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "Neves",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 3
+    },
+    {
+      "nome": "Testes",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 4
+    },
+    {
+      "nome": "Roger Guedes",
+      "carne": "Veggie burger",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Tomate",
+        "Pepino",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 5
+    },
+    {
+      "nome": "James Bond",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 6
+    },
+    {
+      "nome": "Paulo Gustavo",
+      "carne": "Alcatra",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 7
+    },
+    {
+      "nome": "Bruno Neves",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Tomate",
+        "Pepino",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 8
+    }
+  ]
 }
